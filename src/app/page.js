@@ -6,7 +6,6 @@ import TradingForm from "./settings/tradingform";
 export default function Home() {
   return (
     <div>
-    <Nav/>
     <WelcomePage/>
     
  
